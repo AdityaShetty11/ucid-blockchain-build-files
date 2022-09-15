@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e7749047.css",
-    "main.js": "/static/js/main.de103fb3.js",
+    "main.js": "/static/js/main.8299a670.js",
     "static/js/787.372644a0.chunk.js": "/static/js/787.372644a0.chunk.js",
     "static/media/ucid-logo-white.png": "/static/media/ucid-logo-white.5431a1fe10aea9fe6aed.png",
     "index.html": "/index.html",
     "main.e7749047.css.map": "/static/css/main.e7749047.css.map",
-    "main.de103fb3.js.map": "/static/js/main.de103fb3.js.map",
+    "main.8299a670.js.map": "/static/js/main.8299a670.js.map",
     "787.372644a0.chunk.js.map": "/static/js/787.372644a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7749047.css",
-    "static/js/main.de103fb3.js"
+    "static/js/main.8299a670.js"
   ]
 }
